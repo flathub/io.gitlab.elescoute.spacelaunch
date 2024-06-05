@@ -1,4 +1,4 @@
-<img align="left" style="vertical-align: middle" width="120" height="120" src="src/icons/io.gitlab.elescoute.spacelaunch.png">
+<img align="left" style="vertical-align: middle" width="120" height="120" src="https://gitlab.com/elescoute/spacelaunch/raw/main/src/icons/io.gitlab.elescoute.spacelaunch.png">
 
 # Space Launch
 
@@ -9,8 +9,8 @@ Space Launch is a native unofficial SpaceLaunchNow.me client for GNOME, written 
 [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
-![Upcoming launches](./data/appdata/screenshot01.png)
-![Details of launch](./data/appdata/screenshot05.png)
+![Upcoming launches](https://gitlab.com/elescoute/spacelaunch/raw/main/data/appdata/screenshot01.png)
+![Details of launch](https://gitlab.com/elescoute/spacelaunch/raw/main/data/appdata/screenshot05.png)
 
 Space Launch is currently in alpha release. Some crashes due to problems of communication with spacelaunchnow.me server can remain. More features will be added later.
 
