@@ -1,7 +1,7 @@
 {
     "app-id" : "io.gitlab.elescoute.spacelaunch",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "spacelaunch",
     "finish-args" : [
