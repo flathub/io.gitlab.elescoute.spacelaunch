@@ -1,7 +1,7 @@
 {
     "app-id" : "io.gitlab.elescoute.spacelaunch",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "spacelaunch",
     "finish-args" : [
@@ -32,7 +32,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/elescoute/spacelaunch.git",
-                    "commit": "d65776c78edfb799c6384770025e8fb4a95bfc85"
+                    "commit": "48eaf260b0f03300beb425f2930dd98b9aae5f9a"
                 }
             ]
         }
