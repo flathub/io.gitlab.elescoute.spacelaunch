@@ -1,7 +1,7 @@
 {
     "app-id" : "io.gitlab.elescoute.spacelaunch",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "spacelaunch",
     "finish-args" : [
@@ -10,18 +10,6 @@
         "--socket=fallback-x11",
         "--device=dri",
         "--socket=wayland"
-    ],
-    "cleanup" : [
-        "/include",
-        "/lib/pkgconfig",
-        "/man",
-        "/share/doc",
-        "/share/gtk-doc",
-        "/share/man",
-        "/share/pkgconfig",
-        "/share/vala",
-        "*.la",
-        "*.a"
     ],
     "modules" : [
         {
@@ -32,6 +20,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/elescoute/spacelaunch.git",
+                    "tag" : "1.2.9",
                     "commit": "e19877ef5429ca80e4a0b2d113d6ec39fc9f82ef"
                 }
             ]
